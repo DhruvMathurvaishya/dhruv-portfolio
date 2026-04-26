@@ -22,19 +22,6 @@ I have successfully published multiple games on the Google Play Store.
 
 ---
 
-## 🌟 Features
-
-- Modern Responsive Design
-- Smooth Animations
-- Project Showcase Sections
-- Background Video Support
-- Skills Section
-- Contact Section
-- Mobile Friendly Layout
-- Fast Performance
-
----
-
 ## 🎮 Projects Included
 
 ### Escape Room 3D
