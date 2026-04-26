@@ -1,10 +1,13 @@
 # 🎮 Dhruv Mathurvaishya Portfolio Website
 
-A modern personal portfolio website built to showcase my game development projects, Unreal Engine experience, mobile games, and technical skills.
+Passionate and results-driven Game Developer with hands-on experience in Unreal Engine 5,
+multiplayer systems, mobile game publishing, and Android application development. Proven ability
+to design, develop, and publish games on the Google Play Store. Strong background in gameplay
+systems, AI behavior trees, level design, and problem-solving complex technical issues. Dedicated
+to continuous learning and building high-quality gaming experiences.
 
-## 🚀 About Me
 
-I am a passionate **Game Developer** with hands-on experience in:
+## TECHNICAL SKILLS
 
 - Unreal Engine 5 (Blueprints & C++)
 - Multiplayer Systems
