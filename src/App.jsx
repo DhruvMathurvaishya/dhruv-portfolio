@@ -1,6 +1,6 @@
 export default function App() {
   return (
-    <div style={{color:'white',background:'black',minHeight:'100vh',padding:'40px'}}>
+    <div style={{ color: 'white', background: 'black', minHeight: '100vh', padding: '40px' }}>
       <h1>Website Working</h1>
     </div>
   );
