@@ -20,7 +20,7 @@ export default function App() {
     {
       name: 'Escape Room 3D',
       videos: [
-        'https://youtu.be/cW-qUq9t8T4?si=V8W3efX2SvRF12n9',
+        'https://youtu.be/oE-a6IRhc7k?si=DSrrvnbNBtD0_cZi',
         'https://youtu.be/cW-qUq9t8T4?si=0vHTVg0M7dhjwZce'
       ],
       desc: [
