@@ -17,18 +17,18 @@ export default function App() {
   ];
 
   const projects = [
-    {
-      name: 'Escape Room 3D',
-      videos: [
-        'https://www.youtube.com/embed/oE-a6IRhc7k',
-        'https://youtu.be/cW-qUq9t8T4?si=0vHTVg0M7dhjwZce'
-      ],
-      desc: [
-        '3D puzzle-based escape room experience',
-        'Designed immersive environments and interactions',
-        'Focused on player logic and progression systems'
-      ]
-    },
+{
+  name: 'Escape Room 3D',
+  videos: [
+    'https://www.youtube.com/embed/oE-a6IRhc7k',
+    'https://www.youtube.com/embed/cW-qUq9t8T4'
+  ],
+  desc: [
+    '3D puzzle-based escape room experience',
+    'Designed immersive environments and interactions',
+    'Focused on player logic and progression systems'
+  ]
+},
     {
       name: 'Up Rock Man',
       video: 'https://youtu.be/NQfM6CHE5Uc?si=WyPZ-tstA6m-KRgm',
