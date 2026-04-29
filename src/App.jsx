@@ -41,8 +41,8 @@ export default function App() {
     {
       name: 'Village Environment',
       videos: [
-        'https://www.youtube.com/embed/dQw4w9WgXcQ',
-        'https://www.youtube.com/embed/dQw4w9WgXcQ'
+        'https://www.youtube-nocookie.com/embed/2ev5xYcsid8',
+        'https://www.youtube-nocookie.com/embed/NQfM6CHE5Uc'
       ],
       desc: [
         'Cinematic village environment design',
@@ -52,7 +52,7 @@ export default function App() {
     },
     {
       name: 'Fantasy Cinematic World',
-      video: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+      video:  'https://www.youtube-nocookie.com/embed/V9ARLnhc96Q',
       desc: [
         'Fantasy-themed cinematic scene',
         'Stylized environment and mood design',
