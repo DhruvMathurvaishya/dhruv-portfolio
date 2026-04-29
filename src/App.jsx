@@ -20,7 +20,7 @@ export default function App() {
     {
       name: 'Escape Room 3D',
       videos: [
-        'https://www.youtube.com/embed/oE-a6IRhc7k',
+        'https://www.youtube-nocookie.com/embed/mFIs78Yu_mQ',
         'https://www.youtube.com/embed/cW-qUq9t8T4'
       ],
       desc: [
