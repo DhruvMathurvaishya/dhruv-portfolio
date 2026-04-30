@@ -24,9 +24,9 @@ export default function App() {
         'https://www.youtube.com/embed/cW-qUq9t8T4'
       ],
       desc: [
-        '3D puzzle-based escape room experience',
-        'Designed immersive environments and interactions',
-        'Focused on player logic and progression systems'
+        '3D puzzle-based escape room experience, Was on Playstore with 500+ downloads',
+        'Focused on player logic and challenging puzzle design to create engaging gameplay experiences.',
+        'Built using object-oriented programming with a UI-driven interaction system, fully optimized for mobile performance and responsiveness. '
       ]
     },
     {
