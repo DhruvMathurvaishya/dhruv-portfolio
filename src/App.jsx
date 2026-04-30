@@ -69,7 +69,7 @@ export default function App() {
         <section style={styles.hero}>
           <h1 style={styles.title}>Dhruv Mathurvaishya</h1>
           <p style={styles.subtitle}>
-            Unreal Engine Developer • Multiplayer • Mobile Games
+            Unreal Engine Game Developer
           </p>
         </section>
 
