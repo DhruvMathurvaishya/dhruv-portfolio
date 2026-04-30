@@ -31,7 +31,7 @@ export default function App() {
     },
     {
       name: 'Up Rock Man',
-      video: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+      video: 'https://www.youtube-nocookie.com/embed/D3SP8t4OVfY',
       desc: [
         'Mobile game published on Play Store',
         'Arcade-style gameplay with responsive controls',
