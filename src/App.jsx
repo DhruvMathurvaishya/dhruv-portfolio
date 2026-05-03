@@ -2,16 +2,13 @@ import React from 'react';
 
 export default function App() {
   const skills = [
-    'Unreal Engine 5',
-    'Blueprints',
-    'C++',
+    'Unreal Engine ',
+    'Blueprints & C++',
     'Replication',
-    'Behavior Trees',
+    'Behavior Trees & AI',
     'UMG UI',
-    'AI Systems',
     'Level Design',
-    'Lighting',
-    'Cinematics',
+    'Lighting & Cinematics',
     'Multiplayer Setup',
     'Mobile Optimization'
   ];
