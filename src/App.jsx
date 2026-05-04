@@ -4,6 +4,8 @@ export default function App() {
   const skills = [
     'Unreal Engine ',
     'Blueprints & C++',
+    'Camera Mechanics & Systems',
+    'Locomotion Skills',
     'Replication',
     'Behavior Trees & AI',
     'UMG UI',
