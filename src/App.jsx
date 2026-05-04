@@ -55,6 +55,17 @@ export default function App() {
         'Stylized environment and mood design',
         'Advanced lighting and composition'
       ]
+    },
+
+    // ✅ NOW LAST PROJECT
+    {
+      name: 'Advanced Locomotion and Dynamic Camera System',
+      video: 'https://www.youtube-nocookie.com/embed/uIgNHk8UjAk',
+      desc: [
+        'Designed a responsive locomotion system with smooth movement transitions',
+        'Implemented a dynamic third-person camera system for immersive gameplay',
+        'Focused on animation blending, player control, and polished gameplay feel'
+      ]
     }
   ];
 
