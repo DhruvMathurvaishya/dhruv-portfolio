@@ -18,7 +18,7 @@ export default function App() {
 
   const projects = [
     {
-  name: 'PC Game Environment(Tree Of Bondage)',
+  name: 'PC Game Environment for Tree Of Bondage',
   video: 'https://www.youtube-nocookie.com/embed/Suf4NzQKQgI',
   desc: [
     'Designed and developed an optimized PC game environment focused on performance and scalability.',
