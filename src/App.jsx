@@ -62,7 +62,7 @@ export default function App() {
     // ✅ NOW LAST PROJECT
     {
       name: 'Advanced Locomotion and Dynamic Camera System',
-      video: 'https://www.youtube-nocookie.com/embed/uIgNHk8UjAk',
+      video: 'https://www.youtube-nocookie.com/embed/uIkKgo3-fgA',
       desc: [
         'Designed a responsive locomotion system with smooth movement transitions',
         'Implemented a dynamic third-person camera system for immersive gameplay',
