@@ -111,7 +111,7 @@ export default function App() {
         <section style={styles.hero}>
           <h1 style={styles.title}>Dhruv Mathurvaishya</h1>
           <p style={styles.subtitle}>
-            Unreal Engine Game Developer
+            Indie Game Developer working with Unreal Engine, passionate about creating immersive and memorable gaming experiences.
           </p>
         </section>
 
