@@ -17,6 +17,24 @@ export default function App() {
 
   const projects = [
     {
+  name: 'PC Game Environment',
+  video: 'https://www.youtube-nocookie.com/embed/uIkKgo3-fgA',
+  desc: [
+    'Created high-quality PC game environments with a focus on realism and atmosphere',
+    'Designed optimized levels using lighting, composition, and environmental storytelling',
+    'Built immersive worlds in Unreal Engine with attention to performance and visual quality'
+  ]
+},
+{
+  name: 'UI Design',
+  video: 'https://www.youtube-nocookie.com/embed/uIkKgo3-fgA',
+  desc: [
+    'Designed intuitive and responsive game user interfaces for desktop and mobile platforms',
+    'Developed clean menus, HUDs, and interaction systems using Unreal Engine UMG',
+    'Focused on usability, visual consistency, and player experience'
+  ]
+},
+    {
       name: 'Escape Room 3D',
       videos: [
         'https://www.youtube-nocookie.com/embed/mFIs78Yu_mQ',
