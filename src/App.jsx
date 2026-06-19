@@ -60,8 +60,8 @@ export default function App() {
       ]
     },
     {
-  name: 'Multiplayer Join, Host, Replication & Chat System',
-  video: 'YOUR_YOUTUBE_EMBED_LINK_HERE',
+  name: 'Multiplayer Join, Host, Replication & Chat System For Android',
+  video: 'https://www.youtube-nocookie.com/embed/yzFzgLYWe74',
   desc: [
     'Developed a multiplayer system with session hosting, joining, and player synchronization.',
     'Implemented replicated health, player states, and gameplay variables using Unreal Engine networking.',
