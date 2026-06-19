@@ -12,7 +12,7 @@ export default function App() {
     'Level Design',
     'Lighting & Cinematics',
     'Multiplayer Setup',
-    'Mobile Optimization'
+    'Mobile Optimization',
     'PC Optimization'
   ];
 
@@ -23,7 +23,7 @@ export default function App() {
   desc: [
     'Designed and developed an optimized PC game environment focused on performance and scalability.',
     'Implemented an event-driven architecture, allowing environmental elements to respond dynamically to gameplay events.',
-    'Created a 4-phase environment system, where each phase transforms the world with unique visuals, interactions, and behaviors.'
+    'Created a 4-phase environment system, where each phase transforms the world with unique visuals, interactions, and behaviors.',
     'Developed dynamic environmental reactions, enabling lights, objects, and interactive elements to behave differently in each phase, enhancing immersion and gameplay variety'
   ]
 },
@@ -33,8 +33,8 @@ export default function App() {
   desc: [
     'Designed and implemented a complete game UI system, including Main Menu, Options, and navigation flows.',
     'Developed an Options Menu with support for window mode switching (Fullscreen, Windowed, Borderless), graphics quality settings, resolution selection, and V-Sync controls.',
-    'Implemented audio settings, allowing players to adjust sound volumes through an intuitive interface.'
-    'Created a dynamic keybinding system, enabling players to customize and save input mappings.'
+    'Implemented audio settings, allowing players to adjust sound volumes through an intuitive interface.',
+    'Created a dynamic keybinding system, enabling players to customize and save input mappings.',
     'Built the UI using responsive and modular widgets for easy maintenance and scalability.'
   ]
 },
