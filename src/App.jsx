@@ -60,6 +60,16 @@ export default function App() {
       ]
     },
     {
+  name: 'Multiplayer Join, Host, Replication & Chat System',
+  video: 'YOUR_YOUTUBE_EMBED_LINK_HERE',
+  desc: [
+    'Developed a multiplayer system with session hosting, joining, and player synchronization.',
+    'Implemented replicated health, player states, and gameplay variables using Unreal Engine networking.',
+    'Built an in-game chat system with replicated messaging and real-time communication between players.'
+  ]
+},
+  
+    {
       name: 'Village Environment',
       videos: [
         'https://www.youtube-nocookie.com/embed/2ev5xYcsid8',
